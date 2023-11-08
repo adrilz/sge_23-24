@@ -1,0 +1,319 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1698880309,,"q"
+:x
+|2,0,1698798512,,"x"
+:w
+|2,0,1698798206,,"w"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""-	CHAR	0
+	l
+|3,1,36,0,1,0,1698797331,"l"
+
+# Marcas en el archivo:
+'0  18  13  ~/modules/school/models/models.py
+|4,48,18,13,1698880309,"~/modules/school/models/models.py"
+'1  27  7  ~/modules/school/__manifest__.py
+|4,49,27,7,1698798512,"~/modules/school/__manifest__.py"
+'2  2  56  ~/modules/school/security/ir.model.access.csv
+|4,50,2,56,1698798331,"~/modules/school/security/ir.model.access.csv"
+'3  44  4  ~/modules/school/views/views.xml
+|4,51,44,4,1698798235,"~/modules/school/views/views.xml"
+'4  1  0  ~/modules/school/views/views.py
+|4,52,1,0,1698797290,"~/modules/school/views/views.py"
+'5  18  13  ~/modules/school/models/models.py
+|4,53,18,13,1698797192,"~/modules/school/models/models.py"
+'6  8  10  ~/modules/school/models/models.py
+|4,54,8,10,1698796877,"~/modules/school/models/models.py"
+'7  8  10  ~/modules/school/models/models.py
+|4,55,8,10,1698796877,"~/modules/school/models/models.py"
+'8  18  13  ~/modules/school/models/models.py
+|4,56,18,13,1698796198,"~/modules/school/models/models.py"
+'9  18  13  ~/modules/school/models/models.py
+|4,57,18,13,1698796198,"~/modules/school/models/models.py"
+
+# Lista de saltos (el más reciente va primero):
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698880309,"~/modules/school/models/models.py"
+-'  27  7  ~/modules/school/__manifest__.py
+|4,39,27,7,1698798512,"~/modules/school/__manifest__.py"
+-'  27  7  ~/modules/school/__manifest__.py
+|4,39,27,7,1698798512,"~/modules/school/__manifest__.py"
+-'  1  0  ~/modules/school/__manifest__.py
+|4,39,1,0,1698798391,"~/modules/school/__manifest__.py"
+-'  1  0  ~/modules/school/__manifest__.py
+|4,39,1,0,1698798391,"~/modules/school/__manifest__.py"
+-'  2  56  ~/modules/school/security/ir.model.access.csv
+|4,39,2,56,1698798331,"~/modules/school/security/ir.model.access.csv"
+-'  2  56  ~/modules/school/security/ir.model.access.csv
+|4,39,2,56,1698798331,"~/modules/school/security/ir.model.access.csv"
+-'  2  56  ~/modules/school/security/ir.model.access.csv
+|4,39,2,56,1698798331,"~/modules/school/security/ir.model.access.csv"
+-'  2  56  ~/modules/school/security/ir.model.access.csv
+|4,39,2,56,1698798331,"~/modules/school/security/ir.model.access.csv"
+-'  1  0  ~/modules/school/security/ir.model.access.csv
+|4,39,1,0,1698798262,"~/modules/school/security/ir.model.access.csv"
+-'  1  0  ~/modules/school/security/ir.model.access.csv
+|4,39,1,0,1698798262,"~/modules/school/security/ir.model.access.csv"
+-'  1  0  ~/modules/school/security/ir.model.access.csv
+|4,39,1,0,1698798262,"~/modules/school/security/ir.model.access.csv"
+-'  1  0  ~/modules/school/security/ir.model.access.csv
+|4,39,1,0,1698798262,"~/modules/school/security/ir.model.access.csv"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  44  4  ~/modules/school/views/views.xml
+|4,39,44,4,1698798235,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.xml
+|4,39,1,0,1698797300,"~/modules/school/views/views.xml"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  1  0  ~/modules/school/views/views.py
+|4,39,1,0,1698797290,"~/modules/school/views/views.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698797192,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  8  10  ~/modules/school/models/models.py
+|4,39,8,10,1698796877,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796198,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796020,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796020,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796020,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796020,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796020,"~/modules/school/models/models.py"
+-'  18  13  ~/modules/school/models/models.py
+|4,39,18,13,1698796020,"~/modules/school/models/models.py"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/modules/school/models/models.py
+	*	1698880291	0
+	"	18	13
+
+> ~/modules/school/__manifest__.py
+	*	1698798508	0
+	"	27	7
+	^	27	8
+	.	27	8
+	+	27	8
+
+> ~/modules/school/security/ir.model.access.csv
+	*	1698798326	0
+	"	2	56
+	^	2	57
+	.	2	56
+	+	2	56
+
+> ~/modules/school/views/views.xml
+	*	1698798206	0
+	"	44	4
+	^	44	5
+	.	44	4
+	+	5	50
+	+	6	39
+	+	7	39
+	+	11	0
+	+	41	28
+	+	4	0
+	+	14	0
+	+	16	0
+	+	22	0
+	+	17	67
+	+	18	39
+	+	19	43
+	+	40	0
+	+	40	50
+	+	42	0
+	+	42	78
+	+	40	3
+	+	42	3
+	+	42	81
+	+	40	21
+	+	42	29
+	+	42	78
+	+	43	0
+	+	44	0
+	+	46	0
+	+	44	52
+	+	45	43
+	+	46	0
+	+	44	4
+
+> ~/modules/school/views/views.py
+	*	1698797279	0
+	"	1	0
+
+> ~/modules/school/__init__.py
+	*	1698794908	0
+	"	4	0
